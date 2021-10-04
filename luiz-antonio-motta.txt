@@ -1,0 +1,7 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <Luiz Antonio Motta>
+
+1. Luiz Antonio Motta;
+2. Sou de Guaratinguetá e moro em São Paulo há quase 10 anos;
+3. Sou aficcionado por tecnologia desde pequeno. Meu primeiro PC foi no século passado, com Windows 95 e esperava dar meia noite pra conectar na internet pagando um pulso só;
