@@ -1,0 +1,7 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <Renata>
+
+1. Renata Pereira Juraski;
+2. Tenho 28 anos, sou formada em administração, falo inglês fluente, amo de paixão animais e se eu pudesse teria uma fazenda só pra resgatar animaizinhos de rua e ficar com eles;
+3. Me formei em administração por influência familiar, porem sempre tive vontade de fazer TI. Eu tinha muito medo de fazer essa mudança de área pois não sabia se iria realmente conseguir e também não tinha apoio da minha familia e nem financeiro. Mas agora consegui realizar o sonho de estudar programação e trabalhar com o que eu realmente gosto.;
